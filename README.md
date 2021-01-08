@@ -6,3 +6,10 @@ CHECK OUT THE OUTPUT VIDEO.
 
 # Output
 https://youtu.be/pYCEbMK2958
+
+# Snapshots : 
+![alt Output1](https://raw.githubusercontent.com/roshansourav/RaceMini/master/Screenshots/Screenshot%20(29).png)
+
+![alt Output2](https://raw.githubusercontent.com/roshansourav/RaceMini/master/Screenshots/Screenshot%20(30).png)
+
+![alt Output3](https://raw.githubusercontent.com/roshansourav/RaceMini/master/Screenshots/Screenshot%20(31).png)
